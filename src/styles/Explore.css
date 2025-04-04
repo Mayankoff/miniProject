@@ -1,0 +1,52 @@
+.explore-container {
+    width: 100%;
+    background: linear-gradient(to bottom, #c3cfd9, #ffffff);
+    padding: 20px 10px;
+    text-align: center;
+  }
+  
+  .explore-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-top: 30px;
+  }
+
+  .explre{
+    font-weight: bolder;
+    font-size: 30px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .card {
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    text-align: center;
+  }
+  
+  .explore-icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .explore-btn {
+    background: #d9534f;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .explore-btn:hover {
+    background: #c9302c;
+    transition: 0.3s ease-in;
+  }
+  
