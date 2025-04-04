@@ -24,6 +24,7 @@ function Navbar() {
             <Link to="/menu" className="nav-button"> Menu </Link>
             <Link to="/about" className="nav-button"> About </Link>
             <Link to="/contact" className="nav-button"> Contact </Link>
+          <a href="https://drive.google.com/file/d/1sfTNXORjcmk3m2DkQIz16glNO9R84svv/view?usp=sharing" className="nav-button" target="_blank" rel="noopener noreferrer">Portfolio</a>
           </div>
         </div>
 
@@ -32,6 +33,7 @@ function Navbar() {
           <Link to="/menu" className="nav-button"> Menu </Link>
           <Link to="/about" className="nav-button"> About </Link>
           <Link to="/contact" className="nav-button"> Contact </Link>
+          <a href="https://drive.google.com/file/d/1sfTNXORjcmk3m2DkQIz16glNO9R84svv/view?usp=sharing" className="nav-button" target="_blank" rel="noopener noreferrer">Portfolio</a>
           <button onClick={toggleNavbar}>
             <ReorderIcon />
           </button>
