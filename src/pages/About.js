@@ -10,7 +10,7 @@ function About() {
         </div>
         <div className='aboutBottom'>
             <h1> ABOUT US</h1>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <p> At Minki's Pizzeria, we're all about serving up delicious, handcrafted pizzas made with love and the freshest ingredients. What started as a small neighborhood spot has grown into a local favorite, known for our crispy crusts, rich sauces, and mouthwatering toppings. Whether you're grabbing a quick slice or sitting down with family and friends, we strive to create a warm, welcoming atmosphere where everyone feels at home. From classic favorites to unique specialty pies, every bite at Minki’s is a taste of passion and tradition.</p>
         </div>
     </div>
   )
